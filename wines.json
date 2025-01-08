@@ -1,12 +1,11 @@
-
-   [
+[
   {
     "id": "55340875-2865-424a-9b31-d9195a1dda04",
     "name": "Interstella 5555",
     "artista": "Daft punk",
     "price": 444.4,
     "stock": 13,
-   "imgUrl": "https://i.pinimg.com/736x/5f/47/a0/5f47a01780e3f846a34fdd4385b23223.jpg",
+    "imgUrl": "https://i.pinimg.com/736x/5f/47/a0/5f47a01780e3f846a34fdd4385b23223.jpg"
   },
   {
     "id": "a49bc3af-5e82-41b9-9810-bedc7357baec",
@@ -14,7 +13,7 @@
     "artista": "Kraken",
     "price": 587.45,
     "stock": 6,
-    "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_872750-MCO54054072080_022023-O.webp",
+    "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_872750-MCO54054072080_022023-O.webp"
   },
   {
     "id": "b91c88ff-02be-495d-ad4d-f93f59728623",
@@ -22,7 +21,7 @@
     "artista": "AC DC",
     "price": 874.03,
     "stock": 27,
-    "imgUrl": "https://cdn-images.dzcdn.net/images/cover/08d269ed8e82823c9b0e9cc61f4afbb7/0x1900-000000-80-0-0.jpg",
+    "imgUrl": "https://cdn-images.dzcdn.net/images/cover/08d269ed8e82823c9b0e9cc61f4afbb7/0x1900-000000-80-0-0.jpg"
   },
   {
     "id": "8f353289-cef9-46cc-b752-a5340adfdbda",
@@ -30,23 +29,23 @@
     "artista": "Michael Jackson",
     "price": 758.25,
     "stock": 5,
-    "imgUrl": "https://phantom-expansion.unidadeditorial.es/efafdc50f49e9f0fba1fd4b10c1612ed/resize/640/assets/multimedia/imagenes/2021/05/21/16215957791821.jpg",
+    "imgUrl": "https://phantom-expansion.unidadeditorial.es/efafdc50f49e9f0fba1fd4b10c1612ed/resize/640/assets/multimedia/imagenes/2021/05/21/16215957791821.jpg"
   },
   {
     "id": "de582699-fa5c-42c3-99a2-5270f9cb5f60",
     "name": "Bad",
-    "artista": "Michael Jackson ",
+    "artista": "Michael Jackson",
     "price": 554.27,
     "stock": 12,
-    "imgUrl": "https://phantom-expansion.unidadeditorial.es/efafdc50f49e9f0fba1fd4b10c1612ed/resize/640/assets/multimedia/imagenes/2021/05/21/16215957791821.jpg",
+    "imgUrl": "https://phantom-expansion.unidadeditorial.es/efafdc50f49e9f0fba1fd4b10c1612ed/resize/640/assets/multimedia/imagenes/2021/05/21/16215957791821.jpg"
   },
   {
     "id": "d422fccf-5dde-4e3f-aebf-25d6a1dc4d86",
     "name": "Black Ice",
-    "artista": "AC DC ",
+    "artista": "AC DC",
     "price": 163.37,
     "stock": 29,
-    "imgUrl": "https://cdn-images.dzcdn.net/images/cover/08d269ed8e82823c9b0e9cc61f4afbb7/0x1900-000000-80-0-0.jpg",
+    "imgUrl": "https://cdn-images.dzcdn.net/images/cover/08d269ed8e82823c9b0e9cc61f4afbb7/0x1900-000000-80-0-0.jpg"
   },
   {
     "id": "2644d9e1-c039-4f64-8acc-a1e77e5d382a",
@@ -54,7 +53,7 @@
     "artista": "Mago de Oz",
     "price": 234.22,
     "stock": 20,
-    "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733e782d96dc4cbe7950a274a9",
+    "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733e782d96dc4cbe7950a274a9"
   },
   {
     "id": "6b68cfb8-0b62-47c6-9e31-09b354907ca4",
@@ -62,7 +61,7 @@
     "artista": "Mago de Oz",
     "price": 944.95,
     "stock": 30,
-    "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733e782d96dc4cbe7950a274a9",
+    "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733e782d96dc4cbe7950a274a9"
   },
   {
     "id": "899f322f-4a79-4fee-8d82-cc80f0f5f427",
@@ -70,7 +69,7 @@
     "artista": "Daft Punk",
     "price": 850.01,
     "stock": 15,
-    “imgUrl”:”https://i.pinimg.com/736x/5f/47/a0/5f47a01780e3f846a34fdd4385b23223.jpg”,
+    "imgUrl": "https://i.pinimg.com/736x/5f/47/a0/5f47a01780e3f846a34fdd4385b23223.jpg"
   },
   {
     "id": "132b4540-d89d-4b5d-ac5f-946080301eb7",
@@ -78,7 +77,7 @@
     "artista": "AC DC",
     "price": 84.55,
     "stock": 33,
-    "imgUrl": "https://cdn-images.dzcdn.net/images/cover/08d269ed8e82823c9b0e9cc61f4afbb7/0x1900-000000-80-0-0.jpg",
+    "imgUrl": "https://cdn-images.dzcdn.net/images/cover/08d269ed8e82823c9b0e9cc61f4afbb7/0x1900-000000-80-0-0.jpg"
   },
   {
     "id": "4a7a1a5c-c85c-4061-ae48-cebc94a356df",
@@ -86,7 +85,7 @@
     "artista": "Michael Jackson",
     "price": 673.35,
     "stock": 39,
-    "imgUrl": "https://phantom-expansion.unidadeditorial.es/efafdc50f49e9f0fba1fd4b10c1612ed/resize/640/assets/multimedia/imagenes/2021/05/21/16215957791821.jpg",
+    "imgUrl": "https://phantom-expansion.unidadeditorial.es/efafdc50f49e9f0fba1fd4b10c1612ed/resize/640/assets/multimedia/imagenes/2021/05/21/16215957791821.jpg"
   },
   {
     "id": "acbf6f4e-b6b4-4a92-89ec-3e07154f43dc",
@@ -94,150 +93,46 @@
     "artista": "AC DC",
     "price": 620.04,
     "stock": 23,
-    "imgUrl": "https://cdn-images.dzcdn.net/images/cover/08d269ed8e82823c9b0e9cc61f4afbb7/0x1900-000000-80-0-0.jpg",
+    "imgUrl": "https://cdn-images.dzcdn.net/images/cover/08d269ed8e82823c9b0e9cc61f4afbb7/0x1900-000000-80-0-0.jpg"
   },
   {
     "id": "b58f3a9f-ec6b-43ce-a03b-2764999cdb8e",
     "name": "Bad",
-    "artista": " Michael Jackson ",
+    "artista": "Michael Jackson",
     "price": 771.09,
     "stock": 17,
-    "imgUrl": "https://phantom-expansion.unidadeditorial.es/efafdc50f49e9f0fba1fd4b10c1612ed/resize/640/assets/multimedia/imagenes/2021/05/21/16215957791821.jpg",
+    "imgUrl": "https://phantom-expansion.unidadeditorial.es/efafdc50f49e9f0fba1fd4b10c1612ed/resize/640/assets/multimedia/imagenes/2021/05/21/16215957791821.jpg"
   },
   {
     "id": "ffe7e86c-18f3-4b1f-8b82-95b975a6babb",
     "name": "Bad",
-    "artista": " Michael Jackson ",
+    "artista": "Michael Jackson",
     "price": 982.96,
     "stock": 15,
-    "imgUrl": "https://phantom-expansion.unidadeditorial.es/efafdc50f49e9f0fba1fd4b10c1612ed/resize/640/assets/multimedia/imagenes/2021/05/21/16215957791821.jpg",
+    "imgUrl": "https://phantom-expansion.unidadeditorial.es/efafdc50f49e9f0fba1fd4b10c1612ed/resize/640/assets/multimedia/imagenes/2021/05/21/16215957791821.jpg"
   },
   {
     "id": "89adc57f-e1ef-4686-9df7-ef41567a4a11",
     "name": "Bad",
-    "artista": "Michael Jackson ",
+    "artista": "Michael Jackson",
     "price": 825.61,
     "stock": 28,
-    "imgUrl": "https://phantom-expansion.unidadeditorial.es/efafdc50f49e9f0fba1fd4b10c1612ed/resize/640/assets/multimedia/imagenes/2021/05/21/16215957791821.jpg",
+    "imgUrl": "https://phantom-expansion.unidadeditorial.es/efafdc50f49e9f0fba1fd4b10c1612ed/resize/640/assets/multimedia/imagenes/2021/05/21/16215957791821.jpg"
   },
   {
     "id": "7f89406f-7037-4992-b72f-94c8e8b3bf3b",
     "name": "Finisterra",
-    "artista": " Mago de Oz ",
+    "artista": "Mago de Oz",
     "price": 805.59,
     "stock": 30,
-    "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733e782d96dc4cbe7950a274a9",
+    "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733e782d96dc4cbe7950a274a9"
   },
   {
-    "id": "6886d36f-a391-4eef-bf7e-c58a320ae822",
-    "name": "Bad",
-    "artista": " Michael Jackson ",
-    "price": 921.01,
-    "stock": 37,
-    "imgUrl": "https://phantom-expansion.unidadeditorial.es/efafdc50f49e9f0fba1fd4b10c1612ed/resize/640/assets/multimedia/imagenes/2021/05/21/16215957791821.jpg",
-  },
-  {
-    "id": "aedaa19d-0398-412f-9bb8-2befd48840d6",
+    "id": "6886d36f-a391-4eef-bf7e-c58a320f800d",
     "name": "Interstella 5555",
     "artista": "Daft Punk",
-    "price": 937.49,
-    "stock": 34,
-    “imgUrl”:”https://i.pinimg.com/736x/5f/47/a0/5f47a01780e3f846a34fdd4385b23223.jpg”,
-  },
-  {
-    "id": "2a66c15f-bac3-4eeb-9b8b-ecb927550acc",
-    "name": "Bad",
-    "artista": "Michael Jackson ",
-    "price": 827.57,
-    "stock": 18,
-    "imgUrl": "https://phantom-expansion.unidadeditorial.es/efafdc50f49e9f0fba1fd4b10c1612ed/resize/640/assets/multimedia/imagenes/2021/05/21/16215957791821.jpg",
-  },
-  {
-    "id": "8912b075-f59c-4646-a0ca-2ff87a33be53",
-    "name": "Bad",
-    "artista": " Michael Jackson ",
-    "price": 330.55,
-    "stock": 26,
-    "imgUrl": "https://phantom-expansion.unidadeditorial.es/efafdc50f49e9f0fba1fd4b10c1612ed/resize/640/assets/multimedia/imagenes/2021/05/21/16215957791821.jpg",
-  },
-  {
-    "id": "255cb5d4-fdf4-47a6-8b86-6614f066cb24",
-    "name": "Finisterra",
-    "artista": " Mago de Oz ",
-    "price": 413,
-    "stock": 35,
-    "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733e782d96dc4cbe7950a274a9",
-  },
-  {
-    "id": "42a42f44-00fe-43c4-9fbf-f74971820906",
-    "name": "Black Ice",
-    "artista": "AC DC",
-    "price": 368.3,
-    "stock": 21,
-    "imgUrl": "https://cdn-images.dzcdn.net/images/cover/08d269ed8e82823c9b0e9cc61f4afbb7/0x1900-000000-80-0-0.jpg",
-  },
-  {
-    "id": "50a62823-9224-4f37-9d3d-3f1ada4bb5f4",
-    "name": "Bad",
-    "artista": " Michael Jackson ",
-    "price": 748.94,
-    "stock": 43,
-    "imgUrl": "https://www.luxuryformen.com/media/catalog/product/cache/6b7590e0592686f38cf7075f53211cbd/g/e/genoels-elderen_pinot_noir_red_wine_lifestyle_1.jpg",
-  },
-  {
-    "id": "c361578e-0871-45c7-820c-d6c9a3facd86",
-    "name": "El simbolo de la huella",
-    "artista": "Kraken",
-    "price": 520.24,
-    "stock": 39,
-    "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_872750-MCO54054072080_022023-O.webp",
-  },
-  {
-    "id": "8085083c-e42d-4367-b993-86290b85cd35",
-    "name": "Finisterra",
-    "artista": " Mago de Oz ",
-    "price": 51.77,
-    "stock": 17,
-    "imgUrl": "https://i.scdn.co/image/ab67616d0000b2733e782d96dc4cbe7950a274a9",
-  },
-  {
-    "id": "5bac66a1-8858-4e45-9cbd-7372484b485c",
-    "name": "Bad",
-    "artista": " Michael Jackson ",
-    "price": 152.78,
-    "stock": 41,
-    "imgUrl": "https://www.luxuryformen.com/media/catalog/product/cache/6b7590e0592686f38cf7075f53211cbd/g/e/genoels-elderen_pinot_noir_red_wine_lifestyle_1.jpg",
-  },
-  {
-    "id": "48ee0d5f-7bfb-4a3a-a2b9-5516eca829b5",
-    "name": "Interstella 5555",
-    "artista": " Daft punk",
-    "price": 854.67,
-    "stock": 14,
-    “imgUrl”:”https://i.pinimg.com/736x/5f/47/a0/5f47a01780e3f846a34fdd4385b23223.jpg”,
-  },
-  {
-    "id": "4549d5e5-aa08-41bd-a78b-d3c3b2854434",
-    "name": "El simbolo de la huella",
-    "artista": "Kraken ",
-    "price": 154.69,
-    "stock": 42,
-    "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_872750-MCO54054072080_022023-O.webp",
-  },
-  {
-    "id": "c22332e9-2041-4820-8d9c-fff1aeb4c4ec",
-    "name": "Black Ice",
-    "artista": "AC DC",
-    "price": 537.06,
-    "stock": 44,
-    "imgUrl": "https://cdn-images.dzcdn.net/images/cover/08d269ed8e82823c9b0e9cc61f4afbb7/0x1900-000000-80-0-0.jpg",
-  },
-  {
-    "id": "35b80e6b-1fe9-4634-901d-85fa41420087",
-    "name": "El simbolo de la huella",
-    "artista": "Kraken",
-    "price": 494.03,
-    "stock": 21,
-    "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_872750-MCO54054072080_022023-O.webp",
+    "price": 687.34,
+    "stock": 9,
+    "imgUrl": "https://i.pinimg.com/736x/5f/47/a0/5f47a01780e3f846a34fdd4385b23223.jpg"
   }
 ]
